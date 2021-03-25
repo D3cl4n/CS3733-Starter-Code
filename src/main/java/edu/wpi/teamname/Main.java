@@ -2,6 +2,10 @@ package edu.wpi.teamname;
 
 public class Main {
 
+  static void declanMethod(){
+    System.out.println("My method");
+  }
+
   public static void main(String[] args) {
     /* Normally, you would want to launch your app,
     which will invoke the init method and start method in
@@ -12,5 +16,15 @@ public class Main {
     System.out.println("Team Member Names Below:");
     System.out.println("Nupur Shukla");
     System.out.println("Erin Perry");
+    System.out.println("Tobias Schaeffer");
+    System.out.println("Leo Morris");
+    System.out.println("Nupur Shukla");
+    System.out.println("Declan Murphy");
+    System.out.println("Dylan Shanes");
+    System.out.println("Hayden Smith");
+    System.out.println("Branch - Dylan Shanes");
+    System.out.println("Michael Clements");
+    System.out.println("Team Coach: Michael Clements");
+
   }
 }
