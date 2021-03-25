@@ -5,6 +5,10 @@ public class Main {
   void NupurMethod() {
     System.out.println("Branch - Nupur Shukla");
   }
+  static void declanMethod(){
+    System.out.println("My method");
+  }
+
   public static void main(String[] args) {
 
 
@@ -16,5 +20,15 @@ public class Main {
      */
     System.out.println("Team Member Names Below:");
     System.out.println("Nupur Shukla");
+    System.out.println("Tobias Schaeffer");
+    System.out.println("Leo Morris");
+    System.out.println("Nupur Shukla");
+    System.out.println("Declan Murphy");
+    System.out.println("Dylan Shanes");
+    System.out.println("Hayden Smith");
+    System.out.println("Branch - Dylan Shanes");
+    System.out.println("Michael Clements");
+    System.out.println("Team Coach: Michael Clements");
+
   }
 }
