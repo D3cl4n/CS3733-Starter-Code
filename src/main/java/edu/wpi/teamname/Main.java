@@ -2,7 +2,12 @@ package edu.wpi.teamname;
 
 public class Main {
 
+  void NupurMethod() {
+    System.out.println("Branch - Nupur");
+  }
   public static void main(String[] args) {
+
+
     /* Normally, you would want to launch your app,
     which will invoke the init method and start method in
     that class. For the Git Exercise though, we only want you
