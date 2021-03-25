@@ -22,5 +22,8 @@ public class Main {
     System.out.println("Dylan Shanes");
     System.out.println("Hayden Smith");
     System.out.println("Branch - Dylan Shanes");
+    System.out.println("Michael Clements");
+    System.out.println("Team Coach: Michael Clements");
+
   }
 }
