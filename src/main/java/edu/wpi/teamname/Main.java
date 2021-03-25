@@ -10,6 +10,5 @@ public class Main {
     App.launch(App.class, args);
      */
     System.out.println("Team Member Names Below:");
-    System.out.println("Arman Saduakas");
   }
 }
