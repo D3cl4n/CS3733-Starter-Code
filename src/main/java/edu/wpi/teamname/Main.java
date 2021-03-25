@@ -3,7 +3,7 @@ package edu.wpi.teamname;
 public class Main {
 
   void NupurMethod() {
-    System.out.println("Branch - Nupur");
+    System.out.println("Branch - Nupur Shukla");
   }
   public static void main(String[] args) {
 
