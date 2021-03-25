@@ -2,6 +2,10 @@ package edu.wpi.teamname;
 
 public class Main {
 
+  static void declanMethod(){
+    System.out.println("My method");
+  }
+
   public static void main(String[] args) {
     /* Normally, you would want to launch your app,
     which will invoke the init method and start method in
